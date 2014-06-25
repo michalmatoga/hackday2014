@@ -1,0 +1,3 @@
+[submodule "vendor/arduino-serial"]
+	path = vendor/arduino-serial
+	url = https://github.com/todbot/arduino-serial
